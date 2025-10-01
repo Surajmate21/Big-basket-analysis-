@@ -115,5 +115,5 @@ Here are the **most useful findings** from the analysis:
 
 ## 🙏 Thank You
 Thank you for exploring **BigBasket Insights**!  
-We are passionate about **Data Analytics, Machine Learning, and Business Intelligence**.  
+We are passionate about **Data Analytics, Machine Learning**.  
 Feel free to connect, contribute, and collaborate.  

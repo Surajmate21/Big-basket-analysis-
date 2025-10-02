@@ -107,13 +107,26 @@ Here are the **most useful findings** from the analysis:
 
 ---
 
-## 📫 Connect With me
-- ✉️ Email: **smate4986@gmail.com**  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mate12/) **Suraj_Mate**
+<p align="center">
+  🙏 <b>Thank You for Visiting My Profile!</b> 🙏
+</p>
 
----
+<p align="center">
+  💡 I love building projects, exploring data, and learning new technologies!  
+</p>
 
-## 🙏 Thank You
-Thank you for exploring **BigBasket Insights**!  
-We are passionate about **Data Analytics, Machine Learning**.  
-Feel free to connect, contribute, and collaborate.  
+<p align="center">
+  🔗 Let's Connect:  
+  <a href="https://www.linkedin.com/in/suraj-mate12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Surajmate21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 <b>Keep Learning. Keep Growing. Keep Exploring!</b> 🚀
+</p>
+
+
